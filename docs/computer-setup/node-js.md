@@ -12,11 +12,11 @@ To code in React (or any frontend framework), you will need Node installed to ru
 
 ## Download and Install
 
-Go to https://nodejs.org/en
+Go to [https://nodejs.org/en](https://nodejs.org/en)
 
-Click Download Node.js (LTS)
+Click the `Download Node.js (LTS)` button.
 
-In general you should choose even number LTS versions for running servers and for local development. If you are looking for potential future features or experimental features, you can choose newer than LTS or odd numbered versions. [https://nodejs.org/en/blog/community/node-v5/](This) article from Node.js is the original explanation of what LTS is when it was introduced in Node.
+In general you should choose even number LTS versions for running servers and for local development. If you are looking for potential future features or experimental features, you can choose newer than LTS or odd numbered versions. [This](https://nodejs.org/en/blog/community/node-v5/) article from Node.js is the original explanation of what LTS is when it was introduced in Node.
 
 Check your Node.js installation:
 
