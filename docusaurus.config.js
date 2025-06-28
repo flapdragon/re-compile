@@ -10,8 +10,8 @@ import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'My Site Test 2',
-  tagline: 'Dinosaurs are very cool',
+  title: 're:compile',
+  tagline: 'Tech resources for getting started',
   favicon: 'img/favicon.ico',
 
   // Future flags, see https://docusaurus.io/docs/api/docusaurus-config#future
@@ -81,9 +81,9 @@ const config = {
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
-        title: 'My Site',
+        title: 're:compile',
         logo: {
-          alt: 'My Site Logo',
+          alt: 're:compile',
           src: 'img/logo.svg',
         },
         items: [
