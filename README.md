@@ -2,6 +2,8 @@
 
 This is a wiki based on Docusaurus for all things coding. It is specifically intended for my students and released individuals looking to setup their computer and start coding. However, anyone looking to do those things should find this helpful and they are welcome to use this free resource.
 
+Currently deployed at [https://re-compile.vercel.app/](https://re-compile.vercel.app/).
+
 ## Installation
 
 ```bash
