@@ -32,4 +32,4 @@ Set-ExecutionPolicy RemoteSigned
 
 Then close that PowerShell window. Just to be safe you should close all terminal windows before trying to run scripts again.
 
-Stack Overflow has a famous answer for this issue [here](https://stackoverflow.com/questions/4037939/powershell-says-execution-of-scripts-is-disabled-on-this-system). The first answer works best.
+Stack Overflow has a [famous answer](https://stackoverflow.com/questions/4037939/powershell-says-execution-of-scripts-is-disabled-on-this-system) for this issue. The first answer works best.
